@@ -1,0 +1,18 @@
+*{
+    margin:0;
+    padding:0;
+}
+.card-img-top{
+    height:140px;
+}
+.card{
+    margin:10px 10px;
+}
+.dropdown{
+    display: flex;
+    justify-content: space-between;
+    align-items:flex-end;  
+}
+#form1{
+    float:right;
+}
